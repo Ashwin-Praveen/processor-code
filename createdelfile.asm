@@ -1,4 +1,4 @@
-;name"Create delete file"
+;name"Create delete file, by inputting a file name"
 
 jmp start
 
@@ -65,5 +65,6 @@ back:
 done:
     ret 
     read endp
+
 end 
 ret
